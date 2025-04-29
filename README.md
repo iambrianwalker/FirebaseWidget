@@ -25,5 +25,5 @@ A lightweight Windows desktop widget built with **WPF (.NET 9)** that reads and 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/iambrianwalker/firebase-desktop-widget.git
-cd firebase-desktop-widget
+git clone https://github.com/iambrianwalker/FirebaseWidget.git
+cd FirebaseWidget
