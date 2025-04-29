@@ -17,7 +17,7 @@ namespace FirebaseWidget
     {
 
         private readonly HttpClient _httpClient = new HttpClient();
-        private readonly string firebaseUrl = "https://brian-s-portfolio-1b813-default-rtdb.firebaseio.com/contactForm.json";
+        private readonly string firebaseUrl = "your-firebase-url";
 
         public MainWindow()
         {
