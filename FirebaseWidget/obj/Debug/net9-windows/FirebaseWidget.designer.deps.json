@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "FirebaseAuthentication.net/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "8.0.3"
+        },
+        "runtime": {
+          "lib/portable45-net45+win8+wpa81/Firebase.Auth.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/8.0.3": {
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.3.19514"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FirebaseAuthentication.net/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Qr+0XkRTZsS4vB80uJdYS9YYc/oX9e/k6AeB9z2jcoTM9MdFcvD7lDqhQDKNWaiVHX50ROUaYVo71cIq4HTYTQ==",
+      "path": "firebaseauthentication.net/1.0.0",
+      "hashPath": "firebaseauthentication.net.1.0.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/8.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KGsYQdS2zLH+H8x2cZaSI7e+YZ4SFIbyy1YJQYl6GYBWjf5o4H1A68nxyq+WTyVSOJQ4GqS/DiPE+UseUizgMg==",
+      "path": "newtonsoft.json/8.0.3",
+      "hashPath": "newtonsoft.json.8.0.3.nupkg.sha512"
+    }
+  }
+}
