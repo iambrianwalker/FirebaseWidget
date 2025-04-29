@@ -19,17 +19,3 @@ A lightweight Windows desktop widget built with **WPF (.NET 9)** that reads and 
 - Firebase Authentication (Email/Password or anonymous)
 
 ---
-
-## Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/iambrianwalker/FirebaseWidget.git
-cd FirebaseWidget
-
-## 2. Add Firebase config
-string email = "your-email@example.com";
-string password = "your-password";
-string apiKey = "your-firebase-web-api-key";
-string databaseUrl = "https://your-project-id.firebaseio.com/contactForm.json";
